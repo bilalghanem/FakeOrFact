@@ -1,0 +1,2 @@
+https://mpqa.cs.pitt.edu/lexicons/subj_lexicon/
+Theresa Wilson, Janyce Wiebe, and Paul Hoffmann (2005). Recognizing Contextual Polarity in Phrase-Level Sentiment Analysis. Proc. of HLT-EMNLP-2005.
